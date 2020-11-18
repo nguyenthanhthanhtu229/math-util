@@ -49,3 +49,5 @@ public class MathUtil {
 //file dặc biet dể nói vs git toll rằng : ai len server ai ở lai local
 //file này dcc goi là .gitignore (thuần text)
 //nó sẽ khác nhau content tùy vào IDE mình xài, ngôn ngữ lap trình mình xài
+//có 1 gã dev cuc de thuong , làm sẵn những file ứng vs các IDE,NNLT rồi
+//xin a ấy dem vè xài: https://gitignore.io
