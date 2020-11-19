@@ -8,8 +8,8 @@ This repository contains a Java project to simulate a well-known JDK class - the
 * ...
 
 ### Connect me via:
-[Facebook](https://www.facebook.com/profile.php?id=100004880717898)
+[Facebook](https://www.facebook.com/profile.php?id=100004880717898)\
 [Email](mailto:insec229@gmail.com)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/60363873_1120503714788975_3907386947537993728_o.jpg?_nc_cat=102&ccb=2&_nc_sid=a4a2d7&_nc_ohc=-K-HWjIgsysAX_bLO5W&_nc_ht=scontent.fvca1-1.fna&oh=f2757d785cdd334c3766b744119dc348&oe=5FDCDA08)
 
 #### © 2020 by tunttse140127 | FPT University, HCMC
