@@ -41,6 +41,7 @@ public class MathUtilityTest {
     @Test(expected = IllegalArgumentException.class)
     public void getFactorial_ThrowException_IfInvalidArgument(){
         MathUtility.getFactorial(-5);
+        //tui mún tháy màu xanh tren sv,thay tích xanh luôn
     }
     
     //trc khi chay file jar cần sửa build-impl.xml
