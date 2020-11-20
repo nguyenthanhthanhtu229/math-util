@@ -1,4 +1,5 @@
 # Welcome to Math Utility repository
+![Practice CI with GitHub Actions using Ant and JUnit | © 2020 by nguyenthanhthanhtu229](https://github.com/nguyenthanhthanhtu229/math-util/workflows/Practice%20CI%20with%20GitHub%20Actions%20using%20Ant%20and%20JUnit%20%7C%20%C2%A9%202020%20by%20nguyenthanhthanhtu229/badge.svg)
 This repository contains a Java project to simulate a well-known JDK class - the Math class. You will find out the most of popular math methods such as: sqrt(), getFactorial() in this repos
 
 ### This repo supplies the following items: 
