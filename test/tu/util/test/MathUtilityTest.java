@@ -42,4 +42,8 @@ public class MathUtilityTest {
     public void getFactorial_ThrowException_IfInvalidArgument(){
         MathUtility.getFactorial(-5);
     }
+    
+    //trc khi chay file jar cần sửa build-impl.xml
+    //sửa 1005 test thành cong thì tao ra .jar 
+    //fail thì k tao ra file .jar
 }
